@@ -2,7 +2,7 @@
 
 const CONFIG = {
   name: "Experiment 626",
-  liveCheckout: false,
+  liveCheckout: true,
   checkoutUrl: "checkout.php",
   supportEmail: "support@experiment626.com"
 };
